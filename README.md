@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihgoyarp)](https://github.com/ihgoyarp/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihgoyarp&langs_count=8)
+
+[![Top Langs]([https://github-readme-stats.vercel.app](https://vercel.com/ihgoyarps-projects/github-readme-stats/86gjBCgzHGV9m5NcHfSdL9F2upFM)/api/top-langs/?username=ihgoyarp)](https://github.com/ihgoyarp/github-readme-stats)
+https://vercel.com/ihgoyarps-projects/github-readme-stats/86gjBCgzHGV9m5NcHfSdL9F2upFM
